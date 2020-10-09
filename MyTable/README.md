@@ -93,7 +93,7 @@ table: {
 # 方法
 ## 组件方法
 ```
-@handleSizeChange="handleSizeChange"			// 切换每页显示条数
-@handleCurrentChange="handleCurrentChange"		// 翻页
+@handleSizeChange="handleSizeChange"    // 切换每页显示条数
+@handleCurrentChange="handleCurrentChange"  // 翻页
 @handleSelectionChange="handleSelectionChange"	// 触发多选事件
 ```
